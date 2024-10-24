@@ -1,1 +1,1 @@
-# Aplicaciones-Matem-ticas-
+# Aplicaciones-Matematicas-

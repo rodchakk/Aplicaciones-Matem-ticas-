@@ -1,7 +1,2 @@
-let a = "hola mundo"
-
-let B = "hola mundo"
-
-
-
+let k = "hola mundo de K"
 

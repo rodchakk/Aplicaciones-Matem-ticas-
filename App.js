@@ -6,7 +6,6 @@ console.log("Ingrese una opcion [1]Serie de Fibonacci  [2]Cálculo del Factorial
 
 
 
-console.log("pruebas")
 
 
 

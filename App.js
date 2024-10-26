@@ -3,6 +3,32 @@ console.log("Bienvenido a Aplicaciones Matemáticas");
 console.log("Ingrese una opcion [1]Serie de Fibonacci  [2]Cálculo del Factorial [3]Verificación de Números Primos [0] para salir");
 console.log();
 
+
+
+
+
+
+
+
+
+
+// main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//funciones
+
 function Fibonacci(n) {
     if (n===0){
         return 0;
@@ -20,28 +46,6 @@ for (let f=0; f<25; f++) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//funciones
 
 
 function primo(n){
@@ -62,9 +66,7 @@ if (n > 1 && residuo !== 0 && residuo2 !== 0 && residuo3 !== 0) {
     console.log(n + " no es primo");
 }
 
-
 primo(n+1);
-
 
 
  }

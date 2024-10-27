@@ -78,7 +78,7 @@ primo(n+1);
             }  
             break;  
         case '2':  
-        readline.question('Ingrese un número para calcular su factorial: ', num => {  
+        readline.question('Ingrese un número para calcular factorial: ', num => {  
             const numeroFactorial = parseInt(num);  
             console.log(`El factorial de ${numeroFactorial} es: ${factorial(numeroFactorial)}`);  
             Opciones(); // Vuelve a solicitar las opciones
